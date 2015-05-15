@@ -3,7 +3,7 @@
 ## About
 AI simulation game where agents keep a boat alive.
 
-Will add a report with more detail.
+See the report for more information.
 
 Made in Unreal Engine 4, version 4.7.6
 
@@ -14,7 +14,13 @@ Made in Unreal Engine 4, version 4.7.6
 
 ## Installation
 
-To install the project we need to add some content as base for the AI.
+There are two ways to install the project.
+
+If you possess a .zip file of the project then
+unzip the file and open the .uproject file in inside the project folder.
+
+If you don't possess the .zip file then when need to download it and
+to install the project we need to add some content as base for the AI.
 Follow this steps and you should have no worries running the project.
 
 1. Download and install Unreal Engine 4.7.4 ([https://www.unrealengine.com](https://www.unrealengine.com))
