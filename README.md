@@ -7,6 +7,16 @@ See the report for more information.
 
 Made in Unreal Engine 4, version 4.7.6
 
+## Demonstration 
+### Video
+
+[![Demonstration of the agents' behaviour](http://img.youtube.com/vi/R-uXNN5hIb0/0.jpg)](https://youtu.be/R-uXNN5hIb0)
+
+### Screenshots
+
+![screenshot1](Screenshots/closeup.png)
+![screenshot2](Screenshots/map.png)
+
 ### Team
 + André Pires
 + Pedro Moniz
