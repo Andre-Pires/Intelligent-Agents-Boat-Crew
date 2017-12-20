@@ -1,4 +1,4 @@
-# Unreal-Boat-Agents
+# Intelligent Agents Boat Crew
 
 ## About
 AI simulation game where agents keep a boat afloat.
