@@ -1,7 +1,7 @@
 # Unreal-Boat-Agents
 
 ## About
-AI simulation game where agents keep a boat alive.
+AI simulation game where agents keep a boat afloat.
 
 See the report for more information.
 
@@ -16,13 +16,13 @@ Made in Unreal Engine 4, version 4.7.6
 
 There are two ways to install the project.
 
-If you possess a complete .zip file of the project (around 2GB) then
+If you have a complete .zip file of the project (around 2GB) then
 unzip the file and open the .uproject file in inside the project folder.
 
-If you possess a compact .zip file of the project (around 100MB) then
+If you have a compact .zip file of the project (around 100MB) then
 follow the instructions below but replace step 6 with unzipping this file.
 
-If you don't possess the .zip file then when need to download it and
+If you don't have the .zip file then when need to download it and
 to install the project we need to add some content as base for the AI.
 Follow this steps and you should have no worries running the project.
 
